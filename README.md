@@ -1,1 +1,5 @@
-# Network-Analysis-of-Musical-Evolution
+## Network-Analysis-of-Musical-Evolution
+
+### Introduction
+
+This project analyzes the evolution of the music industry (1960–2023) through a network of the top 100 best-selling albums per year. Using data from Digital Dream Door, MusicBrainz, and Genius, we modeled albums as nodes and genre overlaps as edges. Through centrality metrics and the Louvain Algorithm, we revealed trends such as centralization in the 2000s, a transitional phase in the 2010s, and decentralization after 2010, alongside the rise of micro-genres and genre fragmentation. This repository provides data, code, and insights to explore the dynamics of musical evolution.For details, please refer to the [notebook](https://github.com/si-tong-chen/NYC-Bike-Data-Analysis-Regression-Prediction-and-Exploration/blob/main/NYC%20Bike%20Data%20Analysis%2C%20Regression%20Prediction%20and%20Exploration.ipynb)
